@@ -2,3 +2,5 @@
 # 爬虫集合<br>
 - "[SougouWechat](https://github.com/leizhu900516/spiders/tree/master/SougouWechat)":"sougou微信公众号爬虫，基于selenium",</br>
 - "[SpiderSex8](https://github.com/leizhu900516/spiders/tree/master/SpiderSex8)":"scrapy爬虫，爬取sex",</br>
+- "[proxySpider](https://github.com/leizhu900516/spiders/tree/master/proxySpider)":"scrapy爬虫，爬取西刺代理ip",</br>
+
